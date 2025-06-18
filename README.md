@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=1000&pause=2000&color=7D13F7&background=FF693400&repeat=false&random=true&width=500&lines=I'm+asleep%2C+please+wake+me+up.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=1000&pause=2000&color=7D13F7&background=FF693400&repeat=true&random=true&width=500&lines=I'm+asleep%2C+please+wake+me+up.)](https://git.io/typing-svg)
 
 Greetings! I'm Albert, and I take pride in being a lazy programmer. 
 Despite my love of coding, experimenting, and creating things from the ground up, 
