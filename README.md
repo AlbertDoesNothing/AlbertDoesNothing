@@ -7,5 +7,5 @@ Bread is my second best friend after sleep.
 
 ## Social Links
 <a href="https://instagram.com/albertdoesnothing" target="_blank"><img src="https://i.ibb.co/HTwWjnbY/instagram.png" alt="instagram" border="0" width=30 height=30></a>
-<a href="https://x.com/AlbertDoNothing" target="_blank"><img src="https://i.ibb.co/HD9wNNP8/twitter.png" alt="x" border="0" width=30 height=30></a>
+<a href="https://x.com/AlbertDoNothing" target="_blank"><img src="https://i.ibb.co/8nCW4KCL/twitter-1.png" alt="x" border="0" width=30 height=30></a>
 <a href="https://www.linkedin.com/in/albertdoesnothing/" target="_blank"><img src="https://i.ibb.co/4RbTFGRV/linkedin.png" alt="linkedin" border="0" width=30 height=30></a>
