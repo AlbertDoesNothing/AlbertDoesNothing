@@ -14,4 +14,5 @@ Bread is my second best friend after sleep.
 ![](https://komarev.com/ghpvc/?username=AlbertDoesNothing&label=Bread&style=for-the-badge&color=7D13F7&abbreviated=true)
 [![wakatime](https://wakatime.com/badge/user/f3991f08-6fe3-4af1-8f1e-f9d5b542ed9c.svg?style=for-the-badge&color=7D13F7&abbreviated=true)](https://wakatime.com/@f3991f08-6fe3-4af1-8f1e-f9d5b542ed9c)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertDoesNothing&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertDoesNothing&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&layout=compact&custom_title=Code+Bread&number_format=short)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertDoesNothing&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
