@@ -1,9 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=1000&pause=2000&color=7D13F7&background=FF693400&repeat=true&random=true&width=500&lines=I'm+asleep%2C+please+wake+me+up.)
 
-Greetings! I'm Albert, and I take pride in being a lazy programmer. 
-Despite my love of coding, experimenting, and creating things from the ground up, 
-I would much rather take a nap or eat some fried rice than spend my days debugging.  
-Bread is my second best friend after sleep.  
+I'm just your average guy who wears many hats—sometimes I’m on the frontend, other times I dive into the backend, and occasionally I forget which is which. Sleep is a myth I chase, coffee is my holy grail, and a rubber duck listens better than most people. I have a love-hate relationship with coding, but honestly? I don’t care that much. I just do things.
 
 ## @ Social Links
 <a href="https://instagram.com/albertdoesnothing" target="_blank"><img src="https://i.ibb.co/HTwWjnbY/instagram.png" alt="instagram" border="0" width=30 height=30></a>
