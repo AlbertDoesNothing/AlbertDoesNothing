@@ -11,5 +11,7 @@ I'm just your average guy who wears many hats—sometimes I’m on the frontend,
 ![](https://komarev.com/ghpvc/?username=AlbertDoesNothing&label=Bread&style=for-the-badge&color=178055&abbreviated=true)
 [![wakatime](https://wakatime.com/badge/user/f3991f08-6fe3-4af1-8f1e-f9d5b542ed9c.svg?style=for-the-badge&color=178055&abbreviated=true)](https://wakatime.com/@f3991f08-6fe3-4af1-8f1e-f9d5b542ed9c)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertDoesNothing&theme=gotham&show_icons=true&hide_border=true&count_private=true&layout=compact&custom_title=Participations&number_format=short)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertDoesNothing&theme=gotham&hide_border=true&include_all_commits=true&layout=compact&langs_count=6)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertDoesNothing&theme=gotham&show_icons=true&hide_border=true&count_private=true&layout=compact&custom_title=Participations&number_format=short)
+
