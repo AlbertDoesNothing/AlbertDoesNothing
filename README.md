@@ -1,11 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=1000&pause=2000&color=1eb073&background=FF693400&repeat=true&random=true&width=500&lines=I'm+asleep%2C+please+wake+me+up.)
 
-I'm just your average guy who wears many hats—sometimes I’m on the frontend, other times I dive into the backend, and occasionally I forget which is which. Sleep is a myth I chase, coffee is my holy grail, and a rubber duck listens better than most people. I have a love-hate relationship with coding, but honestly? I don’t care that much. I just do things.
-
-## @ Social Links
-<a href="https://instagram.com/albertdoesnothing" target="_blank"><img src="https://i.ibb.co/HTwWjnbY/instagram.png" alt="instagram" border="0" width=30 height=30></a>
-<a href="https://x.com/AlbertDoNothing" target="_blank"><img src="https://i.ibb.co/8nCW4KCL/twitter-1.png" alt="x" border="0" width=30 height=30></a>
-<a href="https://www.linkedin.com/in/albertdoesnothing/" target="_blank"><img src="https://i.ibb.co/4RbTFGRV/linkedin.png" alt="linkedin" border="0" width=30 height=30></a>
+Hello 👋, my name is Albert, and I'm from Indonesia. I'm a tech enthusiast. <br>
+Currently, I’m attending high school at SMAN 2 Surakarta, and I'm 17 years old. I love math, physics, <br>
+coding, and sharing my ideas with others, whether it's developing applications or just messing around. <br>
+My vision is to create a tool or an application that would someday help a lot of people. <br>
+I love doing research and exploring unknown regions for the sake of my own curiosity.
 
 # @ Statistics
 ![](https://komarev.com/ghpvc/?username=AlbertDoesNothing&label=Bread&style=for-the-badge&color=178055&abbreviated=true)
