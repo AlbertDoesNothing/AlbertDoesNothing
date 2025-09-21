@@ -1,5 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=1000&pause=2000&color=1eb073&background=FF693400&repeat=true&random=true&width=500&lines=I'm+asleep%2C+please+wake+me+up.)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&duration=3500&pause=1000&color=37C56A&repeat=false&width=435&lines=Hardcore+grinder+and+coders.)](https://git.io/typing-svg)<br>
 Hello 👋, my name is Albert, and I'm from Indonesia. I'm a tech enthusiast. <br>
 Currently, I’m attending high school at SMAN 2 Surakarta, and I'm 17 years old. I love math, physics, <br>
 coding, and sharing my ideas with others, whether it's developing applications or just messing around. <br>
