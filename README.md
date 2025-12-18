@@ -2,8 +2,6 @@
 Hello 👋, my name is <b>Albert</b>, and I'm from Indonesia. I'm a tech enthusiast. <br>
 Currently, I’m attending high school at SMAN 2 Surakarta, and I'm 17 years old. I love math, physics, <br>
 coding, and sharing my ideas with others, whether it's developing applications or just messing around. <br>
-My vision is to create a tool or an application that would someday help a lot of people. <br>
-I love doing research and exploring unknown regions for the sake of my own curiosity.
 
 ![](https://komarev.com/ghpvc/?username=Cognitohazardous&label=Visitors&style=for-the-badge&color=178055&abbreviated=true)
 [![wakatime](https://wakatime.com/badge/user/f3991f08-6fe3-4af1-8f1e-f9d5b542ed9c.svg?style=for-the-badge&color=178055&abbreviated=true)](https://wakatime.com/@f3991f08-6fe3-4af1-8f1e-f9d5b542ed9c)
